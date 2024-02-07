@@ -1,0 +1,4 @@
+start
+    integer abc;
+    abc <- "c";
+finish

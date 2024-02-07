@@ -1,0 +1,4 @@
+start
+integer q;
+q <- 123 .div. 456;
+finish

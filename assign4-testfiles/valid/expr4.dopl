@@ -1,0 +1,4 @@
+start
+integer q;
+q <- 3 .mul. 15670;
+finish

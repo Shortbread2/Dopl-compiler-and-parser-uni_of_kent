@@ -1,0 +1,4 @@
+start
+integer qwv;
+    qwv <- .minus. 12345;
+finish

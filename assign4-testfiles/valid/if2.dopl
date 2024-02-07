@@ -1,0 +1,8 @@
+start
+integer v;
+    if v .eq. 1
+    then
+        v <- 2;
+    else
+    endif;
+finish

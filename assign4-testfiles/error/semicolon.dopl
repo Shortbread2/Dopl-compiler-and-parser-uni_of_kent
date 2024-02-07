@@ -1,0 +1,4 @@
+start
+    integer wxy;
+    wxy <- 0
+finish

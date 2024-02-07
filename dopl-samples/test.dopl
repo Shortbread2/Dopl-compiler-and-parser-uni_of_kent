@@ -1,0 +1,9 @@
+start
+integer x;
+character bob;
+    x <- 1;
+    loopif x .lt. 10
+    do
+        x <- x .plus. 1;
+    endloop;
+finish

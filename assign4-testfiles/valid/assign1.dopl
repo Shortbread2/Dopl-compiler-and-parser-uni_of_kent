@@ -1,0 +1,4 @@
+start
+character w;
+w <- "q";
+finish

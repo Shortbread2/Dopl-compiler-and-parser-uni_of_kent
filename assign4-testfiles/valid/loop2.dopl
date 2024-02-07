@@ -1,0 +1,8 @@
+start
+integer q;
+    q <- 1;
+    loopif q .lt. 10
+    do
+        q <- q .plus. 1;
+    endloop;
+finish

@@ -1,0 +1,9 @@
+start
+    integer abc;
+    if abc
+    then
+        abc <- 1;
+    else
+        abc <- 2;
+    endif;
+finish

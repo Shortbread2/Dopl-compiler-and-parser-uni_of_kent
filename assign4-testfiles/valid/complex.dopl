@@ -1,0 +1,21 @@
+start
+integer number, total;
+character ch;
+    total <- 0;
+    number <- 1;
+    ch <- "v";
+    loopif ch .gt. "a"
+    do
+        if number .div. 3 .ne. 0 .and. ch .ne. "b"
+        then
+            total <- total .plus. number .mul. 2;
+            ch <- ch .minus. 1;
+        else
+            total <- total .minus. number;
+            ch <- "n";
+        endif;
+        number <- number .plus. 1;
+    endloop;
+    print total;
+    print ch;
+finish

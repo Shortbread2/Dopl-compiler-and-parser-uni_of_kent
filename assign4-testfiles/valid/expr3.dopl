@@ -1,0 +1,4 @@
+start
+integer q;
+q <- 12 .minus. 56;
+finish

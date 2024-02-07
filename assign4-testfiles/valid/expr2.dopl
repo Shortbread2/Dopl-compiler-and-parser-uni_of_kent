@@ -1,0 +1,4 @@
+start
+integer a;
+a <- 12345 .plus. 45678;
+finish

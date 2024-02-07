@@ -1,0 +1,4 @@
+start
+integer abc123;
+  abc123 <- 10;
+finish

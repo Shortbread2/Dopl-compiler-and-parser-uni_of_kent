@@ -1,0 +1,5 @@
+start
+    loopif 5 .ne. 8
+    do
+    endloop;
+finish

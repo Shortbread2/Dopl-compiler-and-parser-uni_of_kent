@@ -1,0 +1,9 @@
+start
+integer q;
+    if q .lt. 1 .or. q .gt. 1
+    then
+        q <- 2;
+    else
+        q <- 3;
+    endif;
+finish
